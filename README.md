@@ -8,13 +8,12 @@ The analysis was performed using Python, SQL, and Power BI to transform raw sale
 
 ## 🛠️ Tools & Technologies
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- MySQL
-- Power BI
-- Excel
+- **Python** – Pandas, NumPy, Matplotlib
+- **SQL** – MySQL
+- **Power BI** – Data visualization and dashboard creation
+- **Excel** – Data cleaning and basic analysis
+- **GitHub** – Project version control and portfolio
+
 
 ## 📌 Key Analysis
 
@@ -37,7 +36,7 @@ The interactive dashboard provides a visual overview of:
 - Sales Trend Over Time
 - Top 10 Products by Sales
 - Total Sales
-
+ 
 ## 💡 Key Insights
 
 - Technology generated the highest sales among the three product categories.
@@ -67,7 +66,7 @@ Ecommerce-Sales-Analysis/
 │   └── dashboard.png
 │
 └── README.md
-## 📊 Power BI Dashboard
+```
 
 ## 📊 Power BI Dashboard
 

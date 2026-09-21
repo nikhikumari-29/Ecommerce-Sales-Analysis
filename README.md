@@ -67,3 +67,8 @@ Ecommerce-Sales-Analysis/
 │   └── dashboard.png
 │
 └── README.md
+## 📊 Power BI Dashboard
+
+## 📊 Power BI Dashboard
+
+![E-Commerce Sales Analysis Dashboard](https://raw.githubusercontent.com/nikhikumari-29/Ecommerce-Sales-Analysis/main/Screenshot%202026-09-18%20191305.png)

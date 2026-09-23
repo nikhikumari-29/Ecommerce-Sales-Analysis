@@ -1,3 +1,4 @@
+
 # E-Commerce Sales Analysis
 
 ## 📊 Project Overview
@@ -13,7 +14,6 @@ The analysis was performed using Python, SQL, and Power BI to transform raw sale
 - **Power BI** – Data visualization and dashboard creation
 - **Excel** – Data cleaning and basic analysis
 - **GitHub** – Project version control and portfolio
-
 
 ## 📌 Key Analysis
 
@@ -36,37 +36,22 @@ The interactive dashboard provides a visual overview of:
 - Sales Trend Over Time
 - Top 10 Products by Sales
 - Total Sales
- 
+
 ## 💡 Key Insights
 
 - Technology generated the highest sales among the three product categories.
 - Technology also generated the highest profit.
 - The West region recorded the highest sales.
-- Sales increased significantly toward the later years in the dataset.
+- Sales increased toward the later years in the dataset.
 - A small group of products contributed significantly to overall sales.
 
-## 📂 Project Structure
+## 📂 Project Files
 
-```text
-Ecommerce-Sales-Analysis/
-│
-├── data/
-│   └── Superstore.csv
-│
-├── python/
-│   └── sales_analysis.py
-│
-├── sql/
-│   └── sales_analysis.sql
-│
-├── dashboard/
-│   └── Ecommerce_Sales_Dashboard.pbix
-│
-├── images/
-│   └── dashboard.png
-│
-└── README.md
-```
+- `Superstore.csv` – E-commerce sales dataset
+- `sales_analysis.py` – Python analysis
+- `sales_analysis.sql` – SQL analysis queries
+- `Screenshot 2026-09-18 191305.png` – Power BI dashboard
+- `README.md` – Project documentation
 
 ## 📊 Power BI Dashboard
 
